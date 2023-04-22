@@ -3,8 +3,8 @@ A simple Space Invaders game implemented in Python3 using the Pygame library.
 
 # Installation
 Clone the repository to your local machine.
-Install Pygame using 'pip install pygame'.
-Run the game using 'python game.py'.
+Install Pygame using `pip install pygame`.
+Run the game using `python game.py`.
 
 # How to Play
 Use the arrow keys to move the player's ship left, right, up, down. Press the space bar to fire missiles at the invading aliens.
@@ -21,5 +21,3 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 
 # Acknowledgments
 This game was created as part of a programming exercise and is not intended for commercial use.
-
-Feel free to modify and improve the game as you see fit, and share your feedback and suggestions with us!
