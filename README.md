@@ -1,7 +1,7 @@
 # Space Invaders Game
 A simple Space Invaders game implemented in Python3 using the Pygame library.
 
-## Authors:
+## Author:
 
 Kevin Ortiz: keortiz@csu.fullerton.edu
 
